@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsaDuec
-- 👀 I’m interested in gaming, music, and learning about how the world works. 
+- 👀 I’m interested in gaming, music, and learning about how the world works
 - 🌱 I’m currently learning basic coding, how to be an adult
-- 💞️ I’m looking to collaborate on anything that helps me learn
+- 💞️ I’m looking to collaborate on anything that helps me grow as a programmer
 - 📫 How to reach me isakduechle201@gmail.com
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I play 15 instruments
